@@ -13,3 +13,4 @@ class ActivitySerializer(serializers.ModelSerializer):
         model = Activity
         fields = '__all__'
         read_only_fields = ('id', 'user', 'created_at')
+
