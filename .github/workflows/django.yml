@@ -1,3 +1,5 @@
+# Updated on Nov 3 to fix Python version issue
+
 name: Django CI
 
 on:
